@@ -1,0 +1,29 @@
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.line-through {
+    text-decoration: line-through;
+}
+
+.strike-through {
+    text-decoration: strike-through;
+}
+
+
+.uppercase {
+    text-transform:  uppercase;
+}
+
+.text-indent {
+    text-indent : 50px;
+}
